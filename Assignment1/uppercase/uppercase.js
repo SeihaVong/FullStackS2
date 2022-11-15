@@ -9,4 +9,4 @@ function capEach(stringInput){
     return splitString.join(" ");
 }
 
-document.getElementById("test").innerHTML = capEach("in the future, i want to be a doctor.");
+document.getElementById("test").innerHTML = capEach("in the future, i want to be a doctor.");vs
